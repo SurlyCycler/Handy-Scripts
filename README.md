@@ -1,5 +1,6 @@
 # Handy-Scripts
-A corrected version of HPLIP for cups 2.30
+A corrected version of HPLIP driver for hp-envy_5000_series
+it corrects for cups 2.30 error cannot copy ppd
 
 create a file on your home directory
 $ nano hp-envy_5000_series.ppd.
